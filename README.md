@@ -1,2 +1,2 @@
-# ReactApps
+# React
 Created with CodeSandbox
